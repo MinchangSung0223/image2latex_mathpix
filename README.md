@@ -21,4 +21,4 @@ im2latex.exe를 실행 후 변환하고자 하는 수식 부분을 클릭하고 
 
 Mathpix 서버와 통신 후 결과값이 클립보드에 copy됨.
 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/53217819/91631335-c6465e00-ea13-11ea-8064-2265b87db3fb.gif)
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/53217819/91631335-c6465e00-ea13-11ea-8064-2265b87db3fb.gif){: width="500"}
