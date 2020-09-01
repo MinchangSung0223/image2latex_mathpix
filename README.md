@@ -9,7 +9,7 @@ My account에서 Get API Keys에 들어가서 Accept 클릭,
 
 다음 화면에서 결제 카드를 입력합니다.
 
-API 사용료는 1000회 이상 이용 시 부터 1회당 0.004 달러 결제됩니다.
+API 사용료는 1000회 이상 이용부터 1회당 0.004 달러 결제됩니다.
 
 ![캡ddd처](https://user-images.githubusercontent.com/53217819/91630925-a1042080-ea10-11ea-9dfb-5d07f791b349.PNG)
 
