@@ -1,4 +1,19 @@
-# image2latex_mathpix
+# SOURCE CODE 실행방법
+```bash
+pip install keyboard pyperclip pillow
+python main.py
+ ```
+ 
+ or
+ ```bash
+pip3 install keyboard pyperclip pillow
+python3 main.py
+```
+
+
+
+
+# EXE 실행방법
 mathpix api를 사용하여 screenshot을 찍고 latex 문법으로 변형해주는 프로그램입니다.
 
 먼저 API를 사용하기위한 ID와 KEY가 필요합니다.
@@ -47,9 +62,4 @@ Ctrl+Shift+A를 누르면 변환이 수행된 후 Clipboard에 복사됩니다.
 
 
 
-# SOURCE CODE 실행방법
-
-pip install keyboard pyperclip pillow
-
-pip3 install keyboard pyperclip pillow
 
