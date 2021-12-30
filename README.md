@@ -45,3 +45,11 @@ Ctrl+Shift+A를 누르면 변환이 수행된 후 Clipboard에 복사됩니다.
 
 
 
+
+
+# SOURCE CODE 실행방법
+
+pip install keyboard pyperclip pillow
+
+pip3 install keyboard pyperclip pillow
+
