@@ -17,13 +17,31 @@ API 사용료는 1000회 이상 이용부터 1회당 0.004 달러 결제됩니�
 
 ![캡dsdsdsd처](https://user-images.githubusercontent.com/53217819/91630926-a2354d80-ea10-11ea-86b9-4e21a836368c.PNG)
 
-make_api.exe 파일을 실행하고 확인한 API_ID와 API_KEY를 입력 remain_count는 남은 횟수 입력(기본 1000)합니다.
 
-![make_api](https://user-images.githubusercontent.com/53217819/91631030-330c2900-ea11-11ea-8008-4b3bd4beb75b.png)
+app.json파일을 열어 API ID와 API KEY를 입력합니다
 
-im2latex.exe를 실행 후 변환하고자 하는 수식 부분을 클릭하고 Enter입력
 
-Mathpix 서버와 통신 후 결과값이 클립보드에 copy됩니다.
+![image](https://user-images.githubusercontent.com/53217819/147766301-6b8c62a7-97ab-428a-b72b-77caf6bdd371.png)
 
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/53217819/91631417-4c62a480-ea14-11ea-8326-f35d3c1cd60a.gif)
+
+압축을 풀고 폴더에 app.json파일을 옮깁니다.
+
+![image](https://user-images.githubusercontent.com/53217819/147766360-6f32492f-a929-42c2-9b1d-0311a1168fe7.png)
+
+
+main.exe 프로그램을 실행합니다. 다음과 같이 나오면 성공, 프로그램이 꺼지면 app.json파일을 다시 확인해주세요
+
+![image](https://user-images.githubusercontent.com/53217819/147766480-4e1cda97-1415-4012-b2b2-7ce0e01f9578.png)
+
+캡처 도구를 열고 변환하고 싶은 곳을 캡처하면 다음과 같이 표시됩니다.
+
+![image](https://user-images.githubusercontent.com/53217819/147766639-23cb7624-1920-4c08-ad03-17435d2a94bb.png)
+
+Ctrl+Shift+A를 누르면 변환이 수행된 후 Clipboard에 복사됩니다.
+
+![image](https://user-images.githubusercontent.com/53217819/147766823-9a005719-f98f-40e8-ae58-0c4ba0c7e3c4.png)
+
+
+
+
 
