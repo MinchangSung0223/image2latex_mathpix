@@ -61,5 +61,8 @@ Ctrl+Shift+A를 누르면 변환이 수행된 후 Clipboard에 복사됩니다.
 
 
 
-
+# EXE 변환방법
+```bash
+pyinstaller --onfile  --nowindowed main.py
+```
 
