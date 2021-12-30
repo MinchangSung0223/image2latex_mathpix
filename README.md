@@ -1,17 +1,3 @@
-# SOURCE CODE 실행방법
-```bash
-pip install keyboard pyperclip pillow
-python main.py
- ```
- 
- or
- ```bash
-pip3 install keyboard pyperclip pillow
-python3 main.py
-```
-
-
-
 
 # EXE 실행방법
 mathpix api를 사용하여 screenshot을 찍고 latex 문법으로 변형해주는 프로그램입니다.
@@ -55,6 +41,21 @@ main.exe 프로그램을 실행합니다. 다음과 같이 나오면 성공, 프
 Ctrl+Shift+A를 누르면 변환이 수행된 후 Clipboard에 복사됩니다.
 
 ![image](https://user-images.githubusercontent.com/53217819/147766823-9a005719-f98f-40e8-ae58-0c4ba0c7e3c4.png)
+
+
+
+
+# SOURCE CODE 실행방법
+```bash
+pip install keyboard pyperclip pillow
+python main.py
+ ```
+ 
+ or
+ ```bash
+pip3 install keyboard pyperclip pillow
+python3 main.py
+```
 
 
 
